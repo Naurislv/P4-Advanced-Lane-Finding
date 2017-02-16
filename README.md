@@ -1,7 +1,9 @@
 # P4-Advanced-Lane-Finding
 Fourth project submission at Udacity Self Driving Nanodegree program - Lane finding using more advanced computer vision techniques
 
-## Advanced Lane Finding
+Full project submission description and code can be found in advnanced_lane_finding.ipynb
+
+## Advanced Lane Finding project description
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
